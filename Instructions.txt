@@ -1,0 +1,9 @@
+How To Play Boom Blox Demo :
+
+This is a physics based game, where the player has to knock down the whole structure of blocks by shooting balls.
+
+• Press Middle Mouse Button to orbit around the blocks scene.
+• Press Left Mouse Button to shoot the balls. Keep it pressed to increment speed of the ball.
+• Press R to restart the level.
+• Press Escape to quit the game. 
+
